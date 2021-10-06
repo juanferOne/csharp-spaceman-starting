@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\juan.pollan\\OneDrive - SoftwareONE\\Desktop\\project\\week3\\csharp-spaceman-starting\\Spaceman.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\juan.pollan\\OneDrive - SoftwareONE\\Desktop\\project\\week3\\csharp-spaceman-starting\\Spaceman.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juan.pollan\\OneDrive - SoftwareONE\\Desktop\\project\\week3\\csharp-spaceman-starting\\Spaceman.csproj",
+        "projectName": "Spaceman",
+        "projectPath": "C:\\Users\\juan.pollan\\OneDrive - SoftwareONE\\Desktop\\project\\week3\\csharp-spaceman-starting\\Spaceman.csproj",
+        "packagesPath": "C:\\Users\\juan.pollan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan.pollan\\OneDrive - SoftwareONE\\Desktop\\project\\week3\\csharp-spaceman-starting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juan.pollan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
